@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EF5D9696-D9E2-464B-B7A3-FDD5581EC793}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/RedditCrawler.cs">
+    <Files>
+      <File FileName="Controllers/RedditCrawler.cs" Line="13" Column="28" />
+      <File FileName="Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DotnetRedditApi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

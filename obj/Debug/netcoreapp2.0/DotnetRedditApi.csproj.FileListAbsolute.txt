@@ -1,0 +1,11 @@
+/Library/WebServer/Documents/DotnetRedditApi/bin/Debug/netcoreapp2.0/DotnetRedditApi.deps.json
+/Library/WebServer/Documents/DotnetRedditApi/bin/Debug/netcoreapp2.0/DotnetRedditApi.runtimeconfig.json
+/Library/WebServer/Documents/DotnetRedditApi/bin/Debug/netcoreapp2.0/DotnetRedditApi.runtimeconfig.dev.json
+/Library/WebServer/Documents/DotnetRedditApi/bin/Debug/netcoreapp2.0/DotnetRedditApi.dll
+/Library/WebServer/Documents/DotnetRedditApi/bin/Debug/netcoreapp2.0/DotnetRedditApi.pdb
+/Library/WebServer/Documents/DotnetRedditApi/obj/Debug/netcoreapp2.0/DotnetRedditApi.csprojResolveAssemblyReference.cache
+/Library/WebServer/Documents/DotnetRedditApi/obj/Debug/netcoreapp2.0/DotnetRedditApi.csproj.CoreCompileInputs.cache
+/Library/WebServer/Documents/DotnetRedditApi/obj/Debug/netcoreapp2.0/DotnetRedditApi.AssemblyInfoInputs.cache
+/Library/WebServer/Documents/DotnetRedditApi/obj/Debug/netcoreapp2.0/DotnetRedditApi.AssemblyInfo.cs
+/Library/WebServer/Documents/DotnetRedditApi/obj/Debug/netcoreapp2.0/DotnetRedditApi.dll
+/Library/WebServer/Documents/DotnetRedditApi/obj/Debug/netcoreapp2.0/DotnetRedditApi.pdb
